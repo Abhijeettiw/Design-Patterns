@@ -7,7 +7,7 @@ public class Client {
 
         EmployeeObjectAdapter employeeAdapter = new EmployeeObjectAdapter(employee);
 
-        BusinessCard businessCard = new BusinessCard();
+        BusinessCardOA businessCard = new BusinessCardOA();
         String card = businessCard.printCard(employeeAdapter);
 
         System.out.println(card);
