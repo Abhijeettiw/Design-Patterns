@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Decorator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Composite" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Facade" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FlyWeight" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Proxy" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/Composite/.idea" />
     </content>
